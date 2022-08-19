@@ -1,3 +1,4 @@
 # devops
-Teste de git
-Claudio Nascimento
+Teste de git<br>
+Claudio Nascimento<br>
+Bora para a pratica
